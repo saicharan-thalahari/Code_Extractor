@@ -1,0 +1,26 @@
+{
+  "target": "CreateAccount",
+  "sequence": [
+    {
+      "index": 1,
+      "class": "CreateAccount",
+      "file": "C:\\Users\\chara\\OneDrive\\Desktop\\AST_Code\\sample_project\\CreateAccount.java",
+      "start_line": 5,
+      "end_line": 14
+    },
+    {
+      "index": 2,
+      "class": "AccountService",
+      "file": "C:\\Users\\chara\\OneDrive\\Desktop\\AST_Code\\sample_project\\AccountService.java",
+      "start_line": 3,
+      "end_line": 9
+    },
+    {
+      "index": 3,
+      "class": "Helper",
+      "file": "C:\\Users\\chara\\OneDrive\\Desktop\\AST_Code\\sample_project\\Helper.java",
+      "start_line": 3,
+      "end_line": 9
+    }
+  ]
+}
